@@ -7,7 +7,7 @@ from scipy.signal import resample
 from openai import OpenAI
 
 # ========== OpenAI API Key ==========
-os.environ["OPENAI_API_KEY"] = "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"  # <-- Replace this with your real API key
+os.environ["OPENAI_API_KEY"] = ""  # <-- Replace this with your real API key
 
 client = OpenAI()  # Now uses the key from environment variable above
 
