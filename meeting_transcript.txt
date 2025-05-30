@@ -1,0 +1,354 @@
+[00:48:39]  you
+[00:48:47]  you
+[00:49:06]  you
+[00:55:02]  you
+[00:55:10]  you
+[00:56:33]  demo of how to do macOS audio routing.
+[00:56:41]  A couple different things, but maybe the big one is how to set up black hole to capture your system audio.
+[00:56:49]  So, as a quick demo before I even talk, you can hear my voice. That's coming in through this microphone.
+[00:56:57]  You can hear my guitar. Uh... Uh... Sounds better.
+[00:57:05]  because my cables over the strings, but you know, you get the idea. You can hear Grudge band.
+[00:57:12]  And finally, you can hear audio from my sister.
+[00:57:20]  Okay, so how do we do this? Well, first I'll start out by just explaining, you know, why did I want to do this? So the reason I want to do this,
+[00:57:28]  wanted to do all of this, this specific setup. What I wanted to be able to do was record myself.
+[00:57:36]  playing a solo over a backing track and then record myself watching that recording and kind of
+[00:57:44]  analyzing the solo that I played and talk about what I was thinking and where I think it can improve and all that kind of stuff.
+[01:00:26]  Different things you need to record. The easy ones are your microphone and your
+[01:00:33]  guitar right so my microphone is this HyperX headset my guitar is coming in through the built-in audio
+[01:00:41]  interface on my amp. And then the tricky one is the system audio because the system audio by default is a little bit more than the system audio.
+[02:55:17]  $100,000. But if you can't, we will be done.
+[02:55:25]  donating it to a charity for choice. You guys can do it! We got it! All right, it's now time! Here we go. Serena Sarina.
+[02:55:33]  of say tennis ball faster than any woman on earth. So good luck, quadruplets.
+[02:55:41]  Oh! You're living with us all, then! Oh, sorry! It's okay.
+[02:55:49]  You killed us. I'm gonna send this to the Tundee Price Resource Center. So we're really excited about it. And what I'm really excited about is that we have Steph Curry.
+[02:55:56]  and name are later in this video. All right now we have a 1v1 with a different festival all started. And for our next 1v1 we have
+[02:56:04]  I'm Yannis, the Greek freak, a nine-time all-star, two-time MVP and NBA champion. Versus
+[11:42:47]  you
+[11:42:54]  you
+[11:43:02]  We have a 1v1 with a
+[11:43:09]  different basketball all-star. And for our next one, we have Janice the Greek Freek, a nine-time all-star two-year-old.
+[11:43:16]  Two-time MVP and NBA champion, versus Tristan. Your typical basketball player. Let's get it, baby.
+[11:43:24]  First one of you to make a layup, free throw, three-pointer, and half-court shot. Wisness 100,000.
+[11:43:31]  How about we know this money? Let's see if a normal guy can beat an NBA champion.
+[11:43:38]  Three two one go. Let's see who wins. Yeah, wait a minute. It's a
+[11:43:45]  you
+[11:47:36]  Livras AR.
+[11:47:44] 
+[11:48:04] 
+[11:52:01] 👤 [Rahim]: Now reveal which statue of Wendy the DShe is an attractive main character of that band.
+[11:57:38] 👤 [Rahim]: Jegens monste Iron Oh, I'm so sorry. I'm so sorry. Oh, I'm so sorry.
+[11:58:38] 🖥 [System]: you
+[12:01:42] 👤 [Rahim]: to
+[12:06:40] 👤 [Rahim]: Hello what are you doing? Are you good? I am good.
+[12:06:48] 👤 [Rahim]: I want to use
+[12:06:52] 👤 [Rahim]: my computer.
+[12:06:55] 👤 [Rahim]: to go on a vacation.
+[12:06:59] 👤 [Rahim]: I am ready to go on vacation. I am ready to go on vacation. I am ready to go on vacation.
+[12:07:03] 👤 [Rahim]: I am from Bavura. I am living in the city of Bavura.
+[12:07:07] 👤 [Rahim]: USA I want to go to UK I want
+[12:07:11] 👤 [Rahim]: to go to Canada. I wanna go for a ride.
+[12:07:15] 👤 [Rahim]: All right.
+[12:09:58] 👤 [Rahim]: and everyone what are you doing I am good
+[12:10:01] 👤 [Rahim]: Bye.
+[12:10:05] 👤 [Rahim]: Oh, yeah…
+[12:10:05] 🖥 [System]: to use.
+[12:10:11] 👤 [Rahim]: And that's what we want you to learn. What are we talking about today specifically?
+[12:10:11] 🖥 [System]: And that's what we want you to learn. What are we talking about today specifically?
+[12:10:13] 👤 [Rahim]: Today we have a really common situation that is a little bit
+[12:10:13] 🖥 [System]: Today we have a really common situation that is a little bit
+[12:10:17] 👤 [Rahim]: that embarrassing. All right, an embarrassing situation.
+[12:10:17] 🖥 [System]: that embarrassing. All right, an embarrassing situation.
+[12:10:21] 👤 [Rahim]: So let's listen to the dialogue for the first time and it's gonna be
+[12:10:21] 🖥 [System]: And so let's listen to the dialogue for the first time and it's going to be
+[12:10:25] 👤 [Rahim]: be kind of fast. Yeah, but don't worry if you don't understand everything.
+[12:10:25] 🖥 [System]: be kind of fast. Yeah, but don't worry if you don't understand everything.
+[12:10:29] 👤 [Rahim]: everything because after 10 minutes you'll understand
+[12:10:29] 🖥 [System]: everything because after 10 minutes you'll understand.
+[12:10:33] 👤 [Rahim]: Everything. Perfect. Alright, let's listen.
+[12:10:33] 🖥 [System]: Everything. Perfect. Alright, let's listen.
+[12:10:45] 👤 [Rahim]: Nick, how's it going? Oh, hey.
+[12:10:45] 🖥 [System]: Nick, how's it going? Oh, hey.
+[12:10:49] 👤 [Rahim]: What are you doing in this neighborhood? Do you live around here? Actually, my
+[12:10:49] 🖥 [System]: What are you doing in this neighborhood? Do you live around here? Actually, my aunt...
+[12:10:52] 👤 [Rahim]: office is right around the corner. It was great to meet you last week at the Con.
+[12:10:52] 🖥 [System]: office is right around the corner. It was great to meet you last week at the Con.
+[12:10:56] 👤 [Rahim]: I really enjoyed our conversation about foreign investment. Yeah!
+[12:10:56] 🖥 [System]: I really enjoyed our conversation about foreign investment. Yeah!
+[12:11:00] 👤 [Rahim]: Yeah, yeah, it was really interesting. You know, I'm in a bit of a hurry.
+[12:11:00] 🖥 [System]: Yeah, yeah, it was really interesting. You know, I'm in a bit of a hurry.
+[12:16:41] 👤 [Rahim]: Hello everyone, what are you doing? I am going to the airport. I am going to the airport.
+[12:16:49] 👤 [Rahim]: And we may have to go think we need time.
+[12:16:53] 👤 [Rahim]: Oh , I will have to vote
+[12:16:57] 👤 [Rahim]: and guys see so by 7 51
+[12:17:01] 👤 [Rahim]: Hello everyone, what are you doing?
+[12:17:05] 👤 [Rahim]: I and all the tasked from TOE było.
+[12:17:13] 👤 [Rahim]: Yes, I am bored.
+[12:17:40] 👤 [Rahim]: Okay, okay, okay.
+[12:17:48] 👤 [Rahim]: Okay, okay, okay, I am good
+[12:17:52] 👤 [Rahim]: Why is this a scam?
+[12:17:56] 👤 [Rahim]: Why are these dust system?
+[12:18:00] 👤 [Rahim]: Bye.
+[12:18:04] 👤 [Rahim]: is the system.
+[12:18:28] 👤 [Rahim]: Hello everyone what are you doing? I am good are you good? Yes, I am
+[12:18:32] 👤 [Rahim]: I'm going to go
+[12:18:36] 👤 [Rahim]: of how you can
+[12:18:36] 🖥 [System]: of how you can
+[12:18:40] 👤 [Rahim]: can use this phrase.
+[12:18:40] 🖥 [System]: can use this phrase.
+[12:18:44] 👤 [Rahim]: Can you drive faster? I'm in a bit of a hurry.
+[12:18:44] 🖥 [System]: Can you drive faster? I'm in a bit of a hurry.
+[12:18:48] 👤 [Rahim]: Did you, Cherry. Gellysoke.
+[12:18:48] 🖥 [System]: Thanks for watching!
+[12:18:52] 👤 [Rahim]: Don't do that.
+[12:18:52] 🖥 [System]: Thank you so much.
+[12:18:56] 👤 [Rahim]: I can't talk right now. I'm in a bit of a hurry.
+[12:18:56] 🖥 [System]: I can't talk right now. I'm in a bit of a hurry.
+[12:19:04] 👤 [Rahim]: Example 3
+[12:19:04] 🖥 [System]: Example 3
+[12:25:22] 👤 [Rahim]: Hello everyone.
+[12:25:26] 👤 [Rahim]: What are you doing? It's important.
+[12:25:37] 👤 [Rahim]: I live if you want what are you doing?
+[12:25:41] 👤 [Rahim]: I am redoing.
+[12:25:45] 👤 [Rahim]: Islam. I am living in Bangladesh.
+[12:25:53] 👤 [Rahim]: Building AI agents.
+[12:25:57] 👤 [Rahim]: that can speak is now easier than ever. Hi!
+[12:25:57] 🖥 [System]: that can speak is now easier than ever. Hi.
+[12:26:01] 👤 [Rahim]: What would you like to talk about today? Introducing Conversational
+[12:26:05] 👤 [Rahim]: AI with 11 laps. Build, test and deploy. All in one.
+[12:26:05] 🖥 [System]: AI with 11 laps. Build, test and deploy all in one
+[12:26:09] 👤 [Rahim]: platform for the most natural way to communicate with technology.
+[12:26:13] 👤 [Rahim]: Hey, can I check the status?
+[12:26:28] 👤 [Rahim]: Hello everyone.
+[12:27:59] 👤 [Rahim]: Thank you.
+[12:28:11] 👤 [Rahim]: Thank you.
+[12:29:39] 👤 [Rahim]: Hello everyone what are you doing? I am good, are you good?
+[12:29:50] 🖥 [System]: Hello English learners and welcome back to English Puzzle.
+[12:29:54] 🖥 [System]: My name is Marco and I'm Erica. How are you Erica? Marco. I'm doing really
+[12:29:58] 🖥 [System]: really well today. You're excited. Uh-huh. We've got a great lesson for everyone.
+[12:30:02] 🖥 [System]: Yes, we have a really common situation where we're going to use real English.
+[12:30:06] 🖥 [System]: Right? Yep. Every day English, English that people really use.
+[12:30:10] 🖥 [System]: And that's what we want you to learn. What are we talking about today specifically?
+[12:30:14] 🖥 [System]: Today we have a really common situation that is a little bit
+[12:30:18] 🖥 [System]: embarrassing. Alright, an embarrassing situation.
+[12:30:22] 🖥 [System]: And so let's listen to the dialogue for the first time and it's going to be
+[12:30:26] 🖥 [System]: kind of fast. Yeah, but don't worry if you don't understand everything.
+[12:30:29] 🖥 [System]: because after 10 minutes, you'll understand.
+[12:30:33] 🖥 [System]: Everything. Perfect. Alright, let's listen.
+[12:30:45] 🖥 [System]: Nick, how's it going? Oh, hey.
+[12:30:49] 🖥 [System]: What are you doing in this neighborhood? Do you live around here? Actually my office.
+[12:30:53] 🖥 [System]: office is right around the corner. It was great to meet you last week at the Con.
+[12:30:57] 🖥 [System]: I really enjoyed our conversation about foreign investment. Yeah!
+[12:32:41] 👤 [Rahim]: Hello everyone what are you doing? I am going to go to the next one.
+[12:32:45] 👤 [Rahim]: good and everyone what are you
+[12:32:49] 👤 [Rahim]: doing I am going.
+[12:32:53] 👤 [Rahim]: I am going to do my MSC
+[12:32:57] 👤 [Rahim]: in USA.
+[12:33:05] 👤 [Rahim]: And your discussion. Sure. You see.
+[12:33:05] 🖥 [System]: Any discussion? Sure.
+[12:33:09] 👤 [Rahim]: You still have my contact details, right? You know what?
+[12:33:09] 🖥 [System]: I'll have my contact details right?
+[12:33:13] 👤 [Rahim]: This is really embarrassing, but your name has just slipped my mind.
+[12:33:17] 👤 [Rahim]: remind me. Sure, my name is Anna Ferris. Don't worry about it.
+[12:33:21] 👤 [Rahim]: It happens to me all the time. I'm terrible with names too.
+[12:33:26] 🖥 [System]: we get now近
+[12:33:29] 👤 [Rahim]: Wow, Nick forgot her name!
+[12:33:33] 👤 [Rahim]: Yeah, that's happened to me a couple of times and I'm gonna tell you about it
+[12:35:05] 👤 [Rahim]: Hello everyone.
+[12:35:09] 👤 [Rahim]: Again I made four big segments of 30 feet long interaction
+[12:35:21] 👤 [Rahim]: a little bit later. Okay. Alright. Let's start with our three.
+[12:35:21] 🖥 [System]: a little bit later. Okay, all right, well let's start with our three.
+[12:35:25] 👤 [Rahim]: language takeaways.
+[12:35:25] 🖥 [System]: language takeaways.
+[12:35:29] 👤 [Rahim]: language takeaway. So, our first word on our language takeaway.
+[12:35:29] 🖥 [System]: So our first word on our language takes
+[12:35:33] 👤 [Rahim]: Take away is in a bit of a hurry. In a bit of a...
+[12:35:33] 🖥 [System]: way is in a bit of a hurry.
+[12:35:37] 👤 [Rahim]: in a bit of a hurry. In a bit of a hurry.
+[12:35:37] 🖥 [System]: in a bit of a hurry.
+[12:35:41] 👤 [Rahim]: Nick was in a hurry. Yeah, that's right. This is a great
+[12:35:41] 🖥 [System]: Nick was in a hurry.
+[12:35:45] 👤 [Rahim]: phrase. So let's listen to three examples of
+[12:35:45] 🖥 [System]: phrase. So let's listen to three examples of
+[12:35:49] 👤 [Rahim]: how you can use this phrase. Example 1
+[12:35:49] 🖥 [System]: how you can use this phrase. Example 1
+[12:35:53] 👤 [Rahim]: Close to the cost. I'm afraid.
+[12:35:53] 🖥 [System]: Can you do it?
+[12:36:04] 👤 [Rahim]: Drive faster. I'm in a bit of a hurry.
+[12:36:04] 🖥 [System]: Drive faster, I'm in a bit of a hurry.
+[12:36:08] 👤 [Rahim]: Example 2
+[12:36:08] 🖥 [System]: Example 2
+[12:36:12] 🖥 [System]: Thank you.
+[12:36:16] 👤 [Rahim]: I can't talk right now, I'm in a bit of a hurry.
+[12:36:16] 🖥 [System]: I can't talk right now, I'm in a bit of a hurry.
+[12:37:39] 👤 [Rahim]: Hello everyone, what are you doing?
+[12:37:47] 🖥 [System]: Example 3
+[12:37:51] 🖥 [System]: I made a bit of a hurry.
+[12:37:55] 🖥 [System]: So I'll check these files later.
+[12:37:59] 🖥 [System]: Okay, so it's clear now basically it means that you don't have time.
+[12:38:03] 🖥 [System]: Moving really quickly. Okay, perfect.
+[12:38:06] 👤 [Rahim]: Hello everyone, I am Bredwani Islam.
+[12:38:10] 👤 [Rahim]: guys? Liu Human요
+[12:38:14] 👤 [Rahim]: if
+[12:38:18] 👤 [Rahim]: nuptial encode if
+[12:38:22] 👤 [Rahim]: Arithewood
+[12:38:34] 👤 [Rahim]: I am V. Donislam. I am from Bangalore.
+[12:38:38] 👤 [Rahim]: I am from Bangladesh.
+[12:38:42] 👤 [Rahim]: I am Bangladesh.
+[12:38:46] 👤 [Rahim]: I am USA.
+[12:38:50] 👤 [Rahim]: I am a student.
+[12:38:54] 🖥 [System]: So... Figt.
+[12:38:57] 🖥 [System]: Now let's look at our second language takeaway word and it's
+[12:39:01] 🖥 [System]: contact details contact details contact the
+[12:39:05] 👤 [Rahim]: Contact details. So what are your contact details?
+[12:39:05] 🖥 [System]: Contact details. So what are your contact details?
+[12:39:17] 👤 [Rahim]: that
+[12:46:28] 👤 [Rahim]: Hello everyone.
+[12:46:32] 👤 [Rahim]: I am from USA.
+[12:46:36] 👤 [Rahim]: I am reading in Bangladesh.
+[12:46:39] 👤 [Rahim]: I am starting in Bangladesh.
+[12:46:43] 👤 [Rahim]: I am doing MSC.
+[12:46:51] 👤 [Rahim]: the LE
+[12:46:55] 👤 [Rahim]: My department is ECE.
+[12:46:59] 👤 [Rahim]: Yes.
+[12:47:03] 👤 [Rahim]: You are right.
+[12:47:07] 🖥 [System]: Basically,
+[12:47:11] 🖥 [System]: This is the information you can find on your business.
+[12:47:15] 🖥 [System]: All right, so we have like our name our telephone
+[12:47:19] 🖥 [System]: number. Your email address, perhaps your mobile phone number.
+[12:47:23] 🖥 [System]: So all the useful information so people can get in touch with you. Yep.
+[12:47:27] 🖥 [System]: so people can phone you or email you. Okay, so contact details.
+[12:47:31] 🖥 [System]: Great, so our third word is slipped.
+[12:47:34] 🖥 [System]: My mind. Slip my mind. Slip my mind.
+[12:47:38] 🖥 [System]: So this is a funny phrase. It's kind of strange.
+[12:47:42] 🖥 [System]: right? Yes, lift my mind. It sounds very weird.
+[12:47:46] 🖥 [System]: Exactly. Okay, so now we're going to listen to two exams.
+[12:47:50] 🖥 [System]: of this phrase. Try and see if you can figure out.
+[12:47:54] 🖥 [System]: What it means? Example 1
+[12:47:58] 🖥 [System]: I'm sorry I forgot to respond to your email. Just slip my mind.
+[12:48:02] 🖥 [System]: That's fine.
+[12:48:06] 👤 [Rahim]: I am Ridawanislam.
+[12:48:10] 👤 [Rahim]: I am with one Islam.
+[12:48:14] 👤 [Rahim]: I am Ridduan Islam.
+[12:48:18] 👤 [Rahim]: I am from Bangladesh.
+[12:48:22] 👤 [Rahim]: I am bangla.
+[12:48:25] 👤 [Rahim]: I live in Bangladesh.
+[12:48:29] 👤 [Rahim]: I am doing a project.
+[12:48:33] 👤 [Rahim]: or my CS299 project.
+[12:48:37] 👤 [Rahim]: all my CS294s.
+[12:48:41] 👤 [Rahim]: for my 2 C 2995.
+[12:48:49] 👤 [Rahim]: course.
+[12:48:57] 👤 [Rahim]: 299 course.
+[12:49:01] 👤 [Rahim]: Okay.
+[12:49:05] 👤 [Rahim]: Hey! Hey, I scanned.
+[12:49:13] 👤 [Rahim]: and
+[12:49:17] 👤 [Rahim]: A L X.
+[12:49:20] 👤 [Rahim]: Hello Alex.
+[12:49:24] 👤 [Rahim]: Alex.
+[12:49:28] 👤 [Rahim]: elites.
+[12:49:32] 👤 [Rahim]: Alex.
+[12:49:36] 👤 [Rahim]: Alex.
+[13:04:01] 👤 [Ridwain]: oped
+[13:04:09] 👤 [Ridwain]: Okay, everyone, what are you doing?
+[13:04:13] 👤 [Ridwain]: Hello everyone, what are you doing?
+[13:04:17] 👤 [Ridwain]: I am moving.
+[13:04:21] 👤 [Ridwain]: I am good.
+[13:04:25] 👤 [Ridwain]: I am from USA
+[13:04:29] 👤 [Ridwain]: I'm learning speaking English.
+[13:04:33] 👤 [Ridwain]: I am learning speaking English.
+[13:04:37] 👤 [Ridwain]: I'm going to
+[13:04:41] 👤 [Ridwain]: USA
+[13:04:45] 👤 [Ridwain]: I need wood.
+[13:04:49] 👤 [Ridwain]: Thank you.
+[13:04:52] 👤 [Ridwain]: Thank you.
+[13:04:56] 👤 [Ridwain]: Plea Bang!
+[13:05:04] 👤 [Ridwain]: 12
+[13:05:08] 👤 [Ridwain]: distance learning
+[13:05:12] 👤 [Ridwain]: Thank you.
+[13:05:16] 👤 [Ridwain]: Will Thumb.
+[13:18:37] 🖥 [System]: Thank you. Thank you. Thank you. Thank you.
+[13:18:41] 🖥 [System]: I love you.
+[13:18:44] 🖥 [System]: Hello.
+[13:18:52] 🖥 [System]: I have on the previous topic.
+[13:18:56] 🖥 [System]: What is?
+[13:19:00] 🖥 [System]: Black sweet potato
+[13:19:04] 🖥 [System]: fortingscusemattines38
+[13:19:08] 🖥 [System]: ,
+[13:19:12] 🖥 [System]: from my university.
+[13:19:16] 🖥 [System]: My face is burning. What to do now?
+[13:19:20] 🖥 [System]: out.
+[13:19:24] 🖥 [System]: Hillary Celepine
+[13:19:29] 🖥 [System]: Amen. Thank you very much.
+[13:19:43] 🖥 [System]: I want to use the feature.
+[13:19:47] 🖥 [System]: Please explain me, sir.
+[13:19:51] 🖥 [System]: Hello.
+[13:20:03] 🖥 [System]: Any pull up these balls?
+[13:20:07] 🖥 [System]: I love you.
+[13:20:15] 🖥 [System]: What time is it?
+[13:20:19] 🖥 [System]: What is Multanimati?
+[13:20:23] 🖥 [System]: What to do for my kidney problem?
+[13:20:30] 🖥 [System]: Any problem?
+[13:20:34] 🖥 [System]: I am
+[13:20:38] 👤 [Ridwain]: Hey, then, what are you gonna write?
+[13:20:54] 🖥 [System]: Thank you.
+[13:20:58] 🖥 [System]: Bangalore, Bangalore is our country.
+[13:21:06] 🖥 [System]: don't forget to subscribe to the channel
+[16:39:30] 👤 [Ridwain]: Hello everyone, what are you doing?
+[16:39:38] 👤 [Ridwain]: version of Whisper from OpenAI and yeah we are actually using our
+[16:39:41] 👤 [Ridwain]: GPU here that's why we can get such low latency but the
+[16:39:45] 👤 [Ridwain]: I am running on a kind of new 4 series and video so
+[16:39:49] 👤 [Ridwain]: It's nothing insane but it's working pretty good. So this is very easy to do.
+[16:39:53] 👤 [Ridwain]: to set up and we're gonna leave a link to the git tab here so just basically just taping so on.
+[16:39:57] 👤 [Ridwain]: whisper and just follow the instructions here and you can have it.
+[16:43:24] 👤 [Ridwain]: have this setup in no time. If you go back to our record you can see
+[16:43:28] 👤 [Ridwain]: see we have a function that is actually recording from our microphone and creating
+[16:43:32] 👤 [Ridwain]: trunks and here we can adjust the trunk length by a
+[16:43:36] 👤 [Ridwain]: Yeah, we can set like one. I think that's one second.
+[16:45:35] 👤 [Ridwain]: on the terminal right and faster
+[16:45:39] 👤 [Ridwain]: whisper has of course all the models so we can have small mid
+[16:45:43] 👤 [Ridwain]: We can have medium English, we can have large wheat.
+[16:45:47] 👤 [Ridwain]: That's the best one and we can have all to detect language, I just said it.
+[16:45:51] 👤 [Ridwain]: into English for now, right? And then we come into this
+[16:45:55] 👤 [Ridwain]: true loop here that is actually taking what we are recording
+[16:45:59] 👤 [Ridwain]: and it's printing it and it's accumulating this in two layers.
+[16:46:03] 👤 [Ridwain]: like a long file too that we can actually when this
+[16:46:07] 👤 [Ridwain]: breaks we can print the log here other than that is
+[16:46:11] 👤 [Ridwain]: This is pretty simple, pretty straightforward, it's not a big script.
+[16:46:15] 👤 [Ridwain]: You can see we are using QDACores here from my GPU.
+[16:46:18] 👤 [Ridwain]: There's a few things you can adjust to make it even quicker.
+[16:46:22] 👤 [Ridwain]: but I think we're just going to keep it as it is for now. I'm going to move on.
+[16:46:26] 👤 [Ridwain]: to kind of our next use case. Like always, it's
+[16:48:00] 👤 [Ridwain]: Hello everyone what are you doing?
+[16:48:04] 👤 [Ridwain]: Are you good?
+[16:48:08] 👤 [Ridwain]: Yes, I am good.
+[16:48:12] 👤 [Ridwain]: Okay baby, okay.
+[16:49:17] 👤 [Ridwain]: Hello everyone, what are you doing?
+[16:49:21] 👤 [Ridwain]: Have fun!
+[16:49:25] 👤 [Ridwain]: out of you.
+[16:49:29] 👤 [Ridwain]: Thank you very much.
+[16:49:33] 👤 [Ridwain]: No, no, no.
+[16:49:37] 👤 [Ridwain]: What you are talking about.
+[16:49:41] 👤 [Ridwain]: Okay.
+[16:53:19] 👤 [Ridwain]: Support me other than that, just like the video. If you like this kind of content.
+[16:53:23] 👤 [Ridwain]: and maybe leave a comment or something but yeah let's move on to
+[16:53:27] 👤 [Ridwain]: another use case I created for this. Okay so the next is
+[16:56:09] 👤 [Ridwain]: To sample is going to be a real-time sentiment analysis.
+[16:56:12] 👤 [Ridwain]: So you can see we have a getchatteless response function here that uses GPT-4
+[16:58:59] 👤 [Ridwain]: here we have something that is more of a sliding window because
+[16:59:03] 👤 [Ridwain]: we always want to keep the prompt to a set number.
+[16:59:07] 👤 [Ridwain]: of characters so this is going to be 100 characters that means that the
+[16:59:11] 👤 [Ridwain]: from, it will always be 100 characters long and it changes.
+[16:59:15] 👤 [Ridwain]: over time you will see how this works when we run it and recreate the last
+[16:59:19] 👤 [Ridwain]: simply you are that it's actually it's gone out.
+[17:00:05] 👤 [Ridwain]: Hello everyone what are you doing?
+[17:00:13] 🖥 [System]: place the sentiment and yeah basically all is
+[17:00:17] 🖥 [System]: the same you can see we have another prompt here so this
+[17:00:21] 🖥 [System]: This takes the sliding window as an input.
+[17:00:25] 🖥 [System]: What is the sentiment of the conversation above?
+[17:00:29] 🖥 [System]: Thank you.
+[17:00:33] 👤 [Ridwain]: I am okay, okay, okay.
+[17:00:41] 👤 [Ridwain]: Okay, good, good.
+[17:00:49] 👤 [Ridwain]: Nice, nice.
+[17:00:53] 🖥 [System]: So
+[17:00:56] 🖥 [System]: cancer only with positive, neutral or negative.
+[17:01:00] 🖥 [System]: Yeah, kinda what this does is there it looks at what
+[17:01:04] 🖥 [System]: is going on in the conversation now and gives sentiment on that.
